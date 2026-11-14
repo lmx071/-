@@ -1,5 +1,5 @@
 //顺序结构程序设计
-
+//1001
 #include<stdio.h>
 int main()
 {
