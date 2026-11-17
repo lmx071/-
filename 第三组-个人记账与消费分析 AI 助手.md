@@ -1,7 +1,36 @@
 # AI 记账助手
 
 个人记账与消费分析助手：一句话记账、小票识别、自动分类、自然语言查账、预算超支提醒。
-
+accounting-ai/
+│
+├── frontend/
+│   └── 前端代码
+│
+├── backend/
+│   └── 后端代码
+│
+├── docs/
+│   ├── 项目说明.md
+│   ├── 部署文档.md
+│   └── API文档.md
+│
+├── data/
+│   └── 示例数据说明
+│
+├── docker-compose.yml
+│
+├── .env.example
+│
+├── .gitignore
+│
+├── README.md
+│
+└── .github/
+    ├── workflows/
+    │   ├── test.yml
+    │   └── deploy.yml
+    │
+    └── PULL_REQUEST_TEMPLATE.md
 
 #自然语言记账 + 小票 / 截图 OCR 录入
 
